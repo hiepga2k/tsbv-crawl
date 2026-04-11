@@ -1,6 +1,8 @@
 # tsbv-crawl
 
-Personal podcast player for [Tâm Sự Buồn Vui #tsbv](https://tsbv.buzzsprout.com). Fetches the RSS feed, stores it locally, and serves a React web app to listen and read episodes.
+Personal podcast player from people. Fetches the RSS feed, stores it locally, and serves a React web app to listen and read episodes.
+
+This project just for personal purpose only.
 
 ## Structure
 
